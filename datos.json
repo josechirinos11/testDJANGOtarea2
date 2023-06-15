@@ -1,0 +1,502 @@
+[
+    {
+        "#": "1",
+        "Expediente": "D-144-2023",
+        "Unidad Fiscalizable": "TERMINAL PORTUARIO COQUIMBO",
+        "Nombre raz\u00f3n social": "TERMINAL PUERTO COQUIMBO S.A.",
+        "Categor\u00eda": "Infraestructura Portuaria",
+        "Regi\u00f3n": "Regi\u00f3n de Coquimbo",
+        "Estado": "En curso",
+        "Detalle": "Ver detalles"
+    },
+    {
+        "#": "2",
+        "Expediente": "D-104-2023",
+        "Unidad Fiscalizable": "PATIO PANAL - RENCA",
+        "Nombre raz\u00f3n social": "CONSTRUCTORA INARCO S.A.",
+        "Categor\u00eda": "Equipamiento",
+        "Regi\u00f3n": "Regi\u00f3n Metropolitana",
+        "Estado": "En curso",
+        "Detalle": "Ver detalles"
+    },
+    {
+        "#": "3",
+        "Expediente": "F-022-2023",
+        "Unidad Fiscalizable": "PLANTA METAL\u00daRGICA MAGNETITA CMP",
+        "Nombre raz\u00f3n social": "COMPA\u00d1IA MINERA DEL PACIFICO S.A.",
+        "Categor\u00eda": "Miner\u00eda",
+        "Regi\u00f3n": "Regi\u00f3n de Atacama",
+        "Estado": "En curso",
+        "Detalle": "Ver detalles"
+    },
+    {
+        "#": "4",
+        "Expediente": "D-131-2023",
+        "Unidad Fiscalizable": "AV\u00cdCOLA GONZ\u00c1LEZ HERMANOS LIMITADA",
+        "Nombre raz\u00f3n social": "AVICOLA GONZALEZ HERMANOS LIMITADA",
+        "Categor\u00eda": "Agroindustrias",
+        "Regi\u00f3n": "Regi\u00f3n de Valpara\u00edso",
+        "Estado": "En curso",
+        "Detalle": "Ver detalles"
+    },
+    {
+        "#": "5",
+        "Expediente": "D-129-2023",
+        "Unidad Fiscalizable": "CES CANAL COCKBURN 13 (RNA 120127)",
+        "Nombre raz\u00f3n social": "NOVA AUSTRAL S.A",
+        "Categor\u00eda": "Pesca y Acuicultura",
+        "Regi\u00f3n": "Regi\u00f3n de Magallanes y la Ant\u00e1rtica Chilena",
+        "Estado": "En curso",
+        "Detalle": "Ver detalles"
+    },
+    {
+        "#": "6",
+        "Expediente": "F-023-2023",
+        "Unidad Fiscalizable": "GTI SISTEMAS DE AIRE ACONDICIONADO",
+        "Nombre raz\u00f3n social": "SOCIEDAD GTI LIMITADA",
+        "Categor\u00eda": "Equipamiento",
+        "Regi\u00f3n": "Regi\u00f3n Metropolitana",
+        "Estado": "En curso",
+        "Detalle": "Ver detalles"
+    },
+    {
+        "#": "7",
+        "Expediente": "D-115-2023",
+        "Unidad Fiscalizable": "F\u00c1BRICA DE MASAS KUKIT",
+        "Nombre raz\u00f3n social": "BLENZ S.A.",
+        "Categor\u00eda": "Equipamiento",
+        "Regi\u00f3n": "Regi\u00f3n Metropolitana",
+        "Estado": "En curso",
+        "Detalle": "Ver detalles"
+    },
+    {
+        "#": "8",
+        "Expediente": "D-125-2023",
+        "Unidad Fiscalizable": "CES MINA ELENA (RNA 120130)",
+        "Nombre raz\u00f3n social": "Salmones Blumar Magallanes SpA",
+        "Categor\u00eda": "Pesca y Acuicultura",
+        "Regi\u00f3n": "Regi\u00f3n de Magallanes y la Ant\u00e1rtica Chilena",
+        "Estado": "En curso",
+        "Detalle": "Ver detalles"
+    },
+    {
+        "#": "9",
+        "Expediente": "D-123-2023",
+        "Unidad Fiscalizable": "EDIFICIO LYON LAS VIOLETAS",
+        "Nombre raz\u00f3n social": "CONSTRUCTORA ALMAHUE S.A.",
+        "Categor\u00eda": "Vivienda e Inmobiliarios",
+        "Regi\u00f3n": "Regi\u00f3n Metropolitana",
+        "Estado": "En curso",
+        "Detalle": "Ver detalles"
+    },
+    {
+        "#": "10",
+        "Expediente": "D-119-2023",
+        "Unidad Fiscalizable": "CES GARC\u00cdA 1 (RNA 110315)",
+        "Nombre raz\u00f3n social": "MOWI CHILE S.A.",
+        "Categor\u00eda": "Pesca y Acuicultura",
+        "Regi\u00f3n": "Regi\u00f3n de Ays\u00e9n del General Carlos Ib\u00e1\u00f1ez del Campo",
+        "Estado": "En curso",
+        "Detalle": "Ver detalles"
+    },
+    {
+        "#": "11",
+        "Expediente": "D-124-2023",
+        "Unidad Fiscalizable": "DISCOTHEQUE LA FRATERNIDAD CAMPUS CENTRAL",
+        "Nombre raz\u00f3n social": "INVERERSIONES RAMAVAL LTDA.",
+        "Categor\u00eda": "Equipamiento",
+        "Regi\u00f3n": "Regi\u00f3n Metropolitana",
+        "Estado": "En curso",
+        "Detalle": "Ver detalles"
+    },
+    {
+        "#": "12",
+        "Expediente": "D-226-2022",
+        "Unidad Fiscalizable": "RESTAURANT EL HUAIRAVO",
+        "Nombre raz\u00f3n social": "SOCIEDAD DE SERVICIOS TURISTICOS LATUR LTDA",
+        "Categor\u00eda": "Equipamiento",
+        "Regi\u00f3n": "Regi\u00f3n de Los R\u00edos",
+        "Estado": "En curso",
+        "Detalle": "Ver detalles"
+    },
+    {
+        "#": "13",
+        "Expediente": "F-021-2023",
+        "Unidad Fiscalizable": "NEUS 2",
+        "Nombre raz\u00f3n social": "CONSTRUCTORA BRISAS DE BATUCO S.A.",
+        "Categor\u00eda": "Vivienda e Inmobiliarios",
+        "Regi\u00f3n": "Regi\u00f3n Metropolitana",
+        "Estado": "En curso",
+        "Detalle": "Ver detalles"
+    },
+    {
+        "#": "14",
+        "Expediente": "D-026-2023",
+        "Unidad Fiscalizable": "CONDOMINIO EL MOLINO LA DEHESA",
+        "Nombre raz\u00f3n social": "MONDAK MAQUINARIAS SPA",
+        "Categor\u00eda": "Vivienda e Inmobiliarios",
+        "Regi\u00f3n": "Regi\u00f3n Metropolitana",
+        "Estado": "En curso",
+        "Detalle": "Ver detalles"
+    },
+    {
+        "#": "15",
+        "Expediente": "D-113-2023",
+        "Unidad Fiscalizable": "HOLY MOLY LASTARRIA",
+        "Nombre raz\u00f3n social": "GRUPO SIETE SPA",
+        "Categor\u00eda": "Equipamiento",
+        "Regi\u00f3n": "Regi\u00f3n Metropolitana",
+        "Estado": "En curso",
+        "Detalle": "Ver detalles"
+    },
+    {
+        "#": "16",
+        "Expediente": "D-118-2023",
+        "Unidad Fiscalizable": "PROYECTO MINERO TIERRA DEL FUEGO DIVISION EL DORADO",
+        "Nombre raz\u00f3n social": "SOCIEDAD DE INVERSIONES TIERRA DEL FUEGO LIMITADA",
+        "Categor\u00eda": "Miner\u00eda",
+        "Regi\u00f3n": "Regi\u00f3n de Coquimbo",
+        "Estado": "En curso",
+        "Detalle": "Ver detalles"
+    },
+    {
+        "#": "17",
+        "Expediente": "D-117-2023",
+        "Unidad Fiscalizable": "EDIFICIO PADRE LE PAIGE ALMAGRO",
+        "Nombre raz\u00f3n social": "ALMAGRO S.A.",
+        "Categor\u00eda": "Vivienda e Inmobiliarios",
+        "Regi\u00f3n": "Regi\u00f3n Metropolitana",
+        "Estado": "En curso",
+        "Detalle": "Ver detalles"
+    },
+    {
+        "#": "18",
+        "Expediente": "D-114-2023",
+        "Unidad Fiscalizable": "EDIFICIO HOY ESTORIL",
+        "Nombre raz\u00f3n social": "CONSTRUCTORA BRAVO E IZQUIERDO LIMITADA",
+        "Categor\u00eda": "Vivienda e Inmobiliarios",
+        "Regi\u00f3n": "Regi\u00f3n Metropolitana",
+        "Estado": "En curso",
+        "Detalle": "Ver detalles"
+    },
+    {
+        "#": "19",
+        "Expediente": "A-020-2023",
+        "Unidad Fiscalizable": "LOTEO CONJUNTO HABITACIONAL EX FUNDICION",
+        "Nombre raz\u00f3n social": "SERVICIO REGIONAL DE VIVIENDA Y URBANISMO SERVIU VIII REGION",
+        "Categor\u00eda": "Vivienda e Inmobiliarios",
+        "Regi\u00f3n": "Regi\u00f3n del Biob\u00edo",
+        "Estado": "En curso",
+        "Detalle": "Ver detalles"
+    },
+    {
+        "#": "20",
+        "Expediente": "D-111-2023",
+        "Unidad Fiscalizable": "CONSTRUCCI\u00d3N BUCAREST 50",
+        "Nombre raz\u00f3n social": "EMPRESA CONSTRUCTORA MENA Y OVALLE S A",
+        "Categor\u00eda": "Vivienda e Inmobiliarios",
+        "Regi\u00f3n": "Regi\u00f3n Metropolitana",
+        "Estado": "En curso",
+        "Detalle": "Ver detalles"
+    },
+    {
+        "#": "21",
+        "Expediente": "D-116-2023",
+        "Unidad Fiscalizable": "PLANTA PROCESADORA DE RECURSOS HIDROBIOLOGICOS PUERTO DEMAISTRE",
+        "Nombre raz\u00f3n social": "PROCESADORA DUMESTRE LIMITADA",
+        "Categor\u00eda": "Pesca y Acuicultura",
+        "Regi\u00f3n": "Regi\u00f3n de Magallanes y la Ant\u00e1rtica Chilena",
+        "Estado": "En curso",
+        "Detalle": "Ver detalles"
+    },
+    {
+        "#": "22",
+        "Expediente": "F-020-2023",
+        "Unidad Fiscalizable": "EDIFICIO BAQUEDANO",
+        "Nombre raz\u00f3n social": "COMUNIDAD EDIFICIO BAQUEDANO",
+        "Categor\u00eda": "Vivienda e Inmobiliarios",
+        "Regi\u00f3n": "Regi\u00f3n de los Lagos",
+        "Estado": "En curso",
+        "Detalle": "Ver detalles"
+    },
+    {
+        "#": "23",
+        "Expediente": "F-019-2023",
+        "Unidad Fiscalizable": "Astillero Etchepare",
+        "Nombre raz\u00f3n social": "ETCHEPARE Y BERGER LTDA.",
+        "Categor\u00eda": "Infraestructura Portuaria",
+        "Regi\u00f3n": "Regi\u00f3n de Los R\u00edos",
+        "Estado": "En curso",
+        "Detalle": "Ver detalles"
+    },
+    {
+        "#": "24",
+        "Expediente": "F-018-2023",
+        "Unidad Fiscalizable": "COMUNIDAD EDIFICIO PLAZA",
+        "Nombre raz\u00f3n social": "COMUNIDAD EDIFICIO PLAZA",
+        "Categor\u00eda": "Vivienda e Inmobiliarios",
+        "Regi\u00f3n": "Regi\u00f3n de los Lagos",
+        "Estado": "En curso",
+        "Detalle": "Ver detalles"
+    },
+    {
+        "#": "25",
+        "Expediente": "D-110-2023",
+        "Unidad Fiscalizable": "MATANZA BAR",
+        "Nombre raz\u00f3n social": "INVERSIONES ANAMAR SPA",
+        "Categor\u00eda": "Equipamiento",
+        "Regi\u00f3n": "Regi\u00f3n de Atacama",
+        "Estado": "En curso",
+        "Detalle": "Ver detalles"
+    },
+    {
+        "#": "26",
+        "Expediente": "D-112-2023",
+        "Unidad Fiscalizable": "ESCOMBRERA FAMILIA PARRA HUMEDAL VASCO DA GAMA",
+        "Nombre raz\u00f3n social": "Heraldo Jes\u00fas Parra Pincheira",
+        "Categor\u00eda": "Equipamiento",
+        "Regi\u00f3n": "Regi\u00f3n del Biob\u00edo",
+        "Estado": "En curso",
+        "Detalle": "Ver detalles"
+    },
+    {
+        "#": "27",
+        "Expediente": "D-109-2023",
+        "Unidad Fiscalizable": "URBANA CENTER APOQUINDO",
+        "Nombre raz\u00f3n social": "INMOBILIARIA TORRE APOQUINDO SPA",
+        "Categor\u00eda": "Vivienda e Inmobiliarios",
+        "Regi\u00f3n": "Regi\u00f3n Metropolitana",
+        "Estado": "En curso",
+        "Detalle": "Ver detalles"
+    },
+    {
+        "#": "28",
+        "Expediente": "D-107-2023",
+        "Unidad Fiscalizable": "L\u00cdDER EXPRESS PEDRO DE VALDIVIA",
+        "Nombre raz\u00f3n social": "ADMINISTRADORA DE SUPERMERCADOS EXPRESS",
+        "Categor\u00eda": "Equipamiento",
+        "Regi\u00f3n": "Regi\u00f3n Metropolitana",
+        "Estado": "En curso",
+        "Detalle": "Ver detalles"
+    },
+    {
+        "#": "29",
+        "Expediente": "D-102-2023",
+        "Unidad Fiscalizable": "Piscolog\u00eda Bar",
+        "Nombre raz\u00f3n social": "SOCIEDAD DE INVERSIONES Y SERVICIOS ESFERICA LTDA.",
+        "Categor\u00eda": "Equipamiento",
+        "Regi\u00f3n": "Regi\u00f3n de Atacama",
+        "Estado": "En curso",
+        "Detalle": "Ver detalles"
+    },
+    {
+        "#": "30",
+        "Expediente": "D-106-2023",
+        "Unidad Fiscalizable": "Supermercado San Nicol\u00e1s Marchihue",
+        "Nombre raz\u00f3n social": "SOCIEDAD DE INVERSIONES MORALES Y ROMERO LIMITADA",
+        "Categor\u00eda": "Equipamiento",
+        "Regi\u00f3n": "Regi\u00f3n del Libertador General Bernardo O'Higgins",
+        "Estado": "En curso",
+        "Detalle": "Ver detalles"
+    },
+    {
+        "#": "31",
+        "Expediente": "D-108-2023",
+        "Unidad Fiscalizable": "CONSTRUCCI\u00d3N EDIFICIO GARDEN MACUL",
+        "Nombre raz\u00f3n social": "CONSTRUCTORA SANTOLAYA LIMITADA",
+        "Categor\u00eda": "Vivienda e Inmobiliarios",
+        "Regi\u00f3n": "Regi\u00f3n Metropolitana",
+        "Estado": "En curso",
+        "Detalle": "Ver detalles"
+    },
+    {
+        "#": "32",
+        "Expediente": "D-101-2023",
+        "Unidad Fiscalizable": "Yass Pub",
+        "Nombre raz\u00f3n social": "Yasna Rutz Retalamal",
+        "Categor\u00eda": "Equipamiento",
+        "Regi\u00f3n": "Regi\u00f3n de Atacama",
+        "Estado": "En curso",
+        "Detalle": "Ver detalles"
+    },
+    {
+        "#": "33",
+        "Expediente": "D-087-2023",
+        "Unidad Fiscalizable": "PROYECTO ALBAMAR 2",
+        "Nombre raz\u00f3n social": "BEZANILLA INMOBILIARIA LIMITADA",
+        "Categor\u00eda": "Vivienda e Inmobiliarios",
+        "Regi\u00f3n": "Regi\u00f3n de Valpara\u00edso",
+        "Estado": "En curso",
+        "Detalle": "Ver detalles"
+    },
+    {
+        "#": "34",
+        "Expediente": "D-103-2023",
+        "Unidad Fiscalizable": "EDIFICIO LUNA",
+        "Nombre raz\u00f3n social": "ONE ADMINISTRACION SPA",
+        "Categor\u00eda": "Vivienda e Inmobiliarios",
+        "Regi\u00f3n": "Regi\u00f3n Metropolitana",
+        "Estado": "En curso",
+        "Detalle": "Ver detalles"
+    },
+    {
+        "#": "35",
+        "Expediente": "D-088-2023",
+        "Unidad Fiscalizable": "BROMUS BAR",
+        "Nombre raz\u00f3n social": "BAR MANIA LIMITADA",
+        "Categor\u00eda": "Equipamiento",
+        "Regi\u00f3n": "Regi\u00f3n de los Lagos",
+        "Estado": "En curso",
+        "Detalle": "Ver detalles"
+    },
+    {
+        "#": "36",
+        "Expediente": "D-105-2023",
+        "Unidad Fiscalizable": "TALLER DE SOLDADURAS JM",
+        "Nombre raz\u00f3n social": "JULIO MU\u00d1OZ ROBLES",
+        "Categor\u00eda": "Equipamiento",
+        "Regi\u00f3n": "Regi\u00f3n de los Lagos",
+        "Estado": "En curso",
+        "Detalle": "Ver detalles"
+    },
+    {
+        "#": "37",
+        "Expediente": "D-096-2023",
+        "Unidad Fiscalizable": "Mal de Puna",
+        "Nombre raz\u00f3n social": "Sim\u00f3n Carrera",
+        "Categor\u00eda": "Equipamiento",
+        "Regi\u00f3n": "Regi\u00f3n de Antofagasta",
+        "Estado": "En curso",
+        "Detalle": "Ver detalles"
+    },
+    {
+        "#": "38",
+        "Expediente": "D-100-2023",
+        "Unidad Fiscalizable": "CONDOMINIO PALMAS DEL SUR II",
+        "Nombre raz\u00f3n social": "RVC INGENIERIA Y CONSTRUCCION S.A.",
+        "Categor\u00eda": "Vivienda e Inmobiliarios",
+        "Regi\u00f3n": "Regi\u00f3n de Antofagasta",
+        "Estado": "En curso",
+        "Detalle": "Ver detalles"
+    },
+    {
+        "#": "39",
+        "Expediente": "D-089-2023",
+        "Unidad Fiscalizable": "BIOPLASTIC CALERA DE TANGO",
+        "Nombre raz\u00f3n social": "POLIETILENO BIOPLASTIC CHILE LTDA.",
+        "Categor\u00eda": "Instalaci\u00f3n fabril",
+        "Regi\u00f3n": "Regi\u00f3n Metropolitana",
+        "Estado": "En curso",
+        "Detalle": "Ver detalles"
+    },
+    {
+        "#": "40",
+        "Expediente": "D-086-2023",
+        "Unidad Fiscalizable": "PROYECTO ALTO MIRADOR TORRE 1-RVC",
+        "Nombre raz\u00f3n social": "RVC INGENIERIA Y CONSTRUCCION S.A.",
+        "Categor\u00eda": "Vivienda e Inmobiliarios",
+        "Regi\u00f3n": "Regi\u00f3n de Valpara\u00edso",
+        "Estado": "En curso",
+        "Detalle": "Ver detalles"
+    },
+    {
+        "#": "41",
+        "Expediente": "D-098-2023",
+        "Unidad Fiscalizable": "SOCIEDAD COMERCIALIZADORA PANILWE SPA (EX M\u00c1QUINAS EUROACERO)",
+        "Nombre raz\u00f3n social": "COMERCIALIZADORA PA\u00d1ILWE SPA",
+        "Categor\u00eda": "Instalaci\u00f3n fabril",
+        "Regi\u00f3n": "Regi\u00f3n Metropolitana",
+        "Estado": "En curso",
+        "Detalle": "Ver detalles"
+    },
+    {
+        "#": "42",
+        "Expediente": "A-019-2023",
+        "Unidad Fiscalizable": "CES HUMOS 4 (RNA 110679)\nCES HUMOS 3 (RNA 110739)",
+        "Nombre raz\u00f3n social": "AUSTRALIS MAR S.A",
+        "Categor\u00eda": "Pesca y Acuicultura\nPesca y Acuicultura",
+        "Regi\u00f3n": "Regi\u00f3n de Ays\u00e9n del General Carlos Ib\u00e1\u00f1ez del Campo",
+        "Estado": "En curso",
+        "Detalle": "Ver detalles"
+    },
+    {
+        "#": "43",
+        "Expediente": "A-018-2023",
+        "Unidad Fiscalizable": "CES MATILDE 2 (RNA 110778)\nCES MATILDE 1 (RNA 110722)",
+        "Nombre raz\u00f3n social": "AUSTRALIS MAR S.A",
+        "Categor\u00eda": "Pesca y Acuicultura\nPesca y Acuicultura",
+        "Regi\u00f3n": "Regi\u00f3n de Ays\u00e9n del General Carlos Ib\u00e1\u00f1ez del Campo",
+        "Estado": "En curso",
+        "Detalle": "Ver detalles"
+    },
+    {
+        "#": "44",
+        "Expediente": "D-097-2023",
+        "Unidad Fiscalizable": "TERMINAL MARITIMO DE QUINTERO ENAP",
+        "Nombre raz\u00f3n social": "ENAP REFINERIAS S.A.",
+        "Categor\u00eda": "Infraestructura Portuaria",
+        "Regi\u00f3n": "Regi\u00f3n de Valpara\u00edso",
+        "Estado": "En curso",
+        "Detalle": "Ver detalles"
+    },
+    {
+        "#": "45",
+        "Expediente": "F-017-2023",
+        "Unidad Fiscalizable": "COMPLEJO TERMOELECTRICO VENTANAS",
+        "Nombre raz\u00f3n social": "AES ANDES S.A.\nEMPRESA ELECTRICA VENTANAS S.P.A.\nEMPRESA ELECTRICA CAMPICHE S.A.",
+        "Categor\u00eda": "Energ\u00eda",
+        "Regi\u00f3n": "Regi\u00f3n de Valpara\u00edso",
+        "Estado": "En curso",
+        "Detalle": "Ver detalles"
+    },
+    {
+        "#": "46",
+        "Expediente": "D-095-2023",
+        "Unidad Fiscalizable": "CENTRO DE EVENTOS BOSQUE LUZ",
+        "Nombre raz\u00f3n social": "JAGUARES PRODUCCIONES SPA",
+        "Categor\u00eda": "Equipamiento",
+        "Regi\u00f3n": "Regi\u00f3n Metropolitana",
+        "Estado": "En curso",
+        "Detalle": "Ver detalles"
+    },
+    {
+        "#": "47",
+        "Expediente": "D-083-2023",
+        "Unidad Fiscalizable": "EDIFICIO PLAZA VICTORIA",
+        "Nombre raz\u00f3n social": "INGENIERA Y CONSTRUCCION EDCO LIMITADA",
+        "Categor\u00eda": "Vivienda e Inmobiliarios",
+        "Regi\u00f3n": "Regi\u00f3n de \u00d1uble",
+        "Estado": "En curso",
+        "Detalle": "Ver detalles"
+    },
+    {
+        "#": "48",
+        "Expediente": "F-016-2023",
+        "Unidad Fiscalizable": "VERTEDERO MUNICIPAL COMUNA DE QUELLON",
+        "Nombre raz\u00f3n social": "ILUSTRE MUNICIPALIDAD DE QUELLON",
+        "Categor\u00eda": "Saneamiento Ambiental",
+        "Regi\u00f3n": "Regi\u00f3n de los Lagos",
+        "Estado": "En curso",
+        "Detalle": "Ver detalles"
+    },
+    {
+        "#": "49",
+        "Expediente": "D-094-2023",
+        "Unidad Fiscalizable": "CES MU\u00d1OZ GAMERO 1 (RNA 120174)",
+        "Nombre raz\u00f3n social": "AUSTRALIS MAR S.A",
+        "Categor\u00eda": "Pesca y Acuicultura",
+        "Regi\u00f3n": "Regi\u00f3n de Magallanes y la Ant\u00e1rtica Chilena",
+        "Estado": "En curso",
+        "Detalle": "Ver detalles"
+    },
+    {
+        "#": "50",
+        "Expediente": "D-092-2023",
+        "Unidad Fiscalizable": "CES C\u00d3RDOVA 4 (RNA 120191)",
+        "Nombre raz\u00f3n social": "AUSTRALIS MAR S.A",
+        "Categor\u00eda": "Pesca y Acuicultura",
+        "Regi\u00f3n": "Regi\u00f3n de Magallanes y la Ant\u00e1rtica Chilena",
+        "Estado": "En curso",
+        "Detalle": "Ver detalles"
+    }
+]
